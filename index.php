@@ -37,6 +37,9 @@ if (file_exists("view/".$q)) {
     
     $content = file_get_contents("view/".$q);
     
+    $github_url="https://github.com/openenergymonitor/learn/blob/master/view/".$q;
+    echo "<div><a href=".$github_url.">Edit on GitHub</a></div>";
+    
     // Parse markdown if page is markdown
     if ($doc_ext=="md") {
         include "lib/Parsedown.php";
