@@ -77,6 +77,7 @@ un-comment above to load resources remotely-->
   <div id="mySidenav" class="sidenav">
     <div class="sidenav_inner">
       <div class="darkerBkd">
+        <!--
         <div class="titleWrapper">
           <div class='menuTitle'>
             <div class="menuSelect"><i id="menuSelect" class="fa fa-chevron-circle-down"></i>
@@ -84,6 +85,7 @@ un-comment above to load resources remotely-->
               <strong>Learn</strong> | Open<strong>EnergyMonitor</strong>
           </div>
         </div>
+        
         <div class="oemMenu">
           <ul>
             <li>
@@ -124,6 +126,7 @@ un-comment above to load resources remotely-->
             </li>
           </ul>
         </div>
+        -->
       </div>
       <div class="lowermenuWrapper">
         <div class="searchContainer">
@@ -328,7 +331,7 @@ function sidebar_resize() {
     if (width<1260) {
         if (fixsidebar===false) {
             $(".sidenav").css("width","0");
-            $("#topnav").slideDown("fast");
+            //$("#topnav").slideDown("fast");
         } else {
             $("#bodyfade").show();
         }
@@ -336,7 +339,7 @@ function sidebar_resize() {
     } else {
         $(".sidenav").css("width","300px");
         if( $("#topnav").css('display') == 'block') {
-          $("#topnav").slideUp("fast");
+          //$("#topnav").slideUp("fast");
         }
         $(".container").css("margin-left","300px");
         $("#bodyfade").hide();
