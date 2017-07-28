@@ -61,7 +61,42 @@ body {
 .editGit {
    display: none;
 }
+.learnDesc {
+  position: relative;
+  margin: 0 auto;
+  padding: 5px 10px 5px 10px;
+  width: 400px;
+  background-color: #368fb4;
+  margin-bottom: 15px;
+  box-shadow: 1px 2px 10px #888;
+}
+.learnDesc-desc {
+  display: inline-block;
+}
+.learnDesc-desc p {
+  width: 300px;
+  color: #ffffff;
+}
+.learnDesc-desc a {
+  font-weight: bold;
+  color: #fff !important;
+}
+.learnDesc-book  {
+  width: 100px;
+  display: inline-block;
+}
 </style>
+<div class="learnDesc">
+				<div class="learnDesc-book">
+				  <img src="http://localhost/learn/theme/book.png" style="width:80px; padding:10px">
+				</div><div class="learnDesc-desc">
+					<p>
+					  An in-depth look at the basic principles of electricity
+					  monitoring, sustainable energy and more.<br>
+					  Information specific to setting-up, installing and configuring an OpenEnergyMonitor system is available in the <a href="https://guide.openenergymonitor.org">Guide</a>.
+					</p>
+				</div>
+			</div>
 <div class="flex-container">
 	<div class="flex-item">
     <div class="fcontainer">
