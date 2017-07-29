@@ -85,6 +85,21 @@ body {
   width: 100px;
   display: inline-block;
 }
+@media (max-width: 562px) {
+  .learnDesc {
+    width: 50%;
+  }
+  .learnDesc-desc p {
+    width: 100%;
+  }
+  .learnDesc-book  {
+    width: 100%;
+  }
+  .learnDesc-book img {
+    display: block;
+    margin: 0 auto;
+  }
+}
 </style>
 <div class="learnDesc">
 				<div class="learnDesc-book">
