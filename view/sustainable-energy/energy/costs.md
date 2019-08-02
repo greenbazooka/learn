@@ -38,17 +38,15 @@ The 2015 Contracts for Difference auction secured onshore wind generation at a c
 
 ### Solar PV
 
-| Capacity | Estimated Cost (£) | Cost £/kW      | £/kW/y  | Unit Cost @10% |
+| Capacity | Estimated Cost (£) | Cost £/kW | £/kW/y  | Unit Cost @10% |
 |----------|--------------------|-----------|---------|-----------|
-| 1kW      | 2500-3000          | £2,750.00 | £110.00 | £0.126    |
-| 2kW      | 3000-5000          | £2,000.00 | £80.00  | £0.091    |
-| 3kW      | 5000-6000          | £1,833.00 | £73.32  | £0.084    |
-| 4kW      | 6000-7000          | £1,625.00 | £65.00  | £0.074    |
+| 1kW      | 1,500-3,000        | £2,250.00 | £90.00  | £0.126    |
+| 2kW      | 3,000-4,000        | £1,750.00 | £70.00  | £0.091    |
+| 3kW      | 4,000-6,000        | £1,666.67 | £66.67  | £0.084    |
+| 4kW      | 6,000-8,000        | £1,750.00 | £70.00  | £0.074    |
 
-Overview of Solar PV costs in the UK 2016:
-
-- [http://www.theecoexperts.co.uk/how-much-do-solar-panels-cost-uk](http://www.theecoexperts.co.uk/how-much-do-solar-panels-cost-uk)
-- [http://www.theecoexperts.co.uk/4-kw-solar-pv-systems](http://www.theecoexperts.co.uk/4-kw-solar-pv-systems)
+Overview of Solar PV costs in the UK 2019:
+- [https://www.greenmatch.co.uk/blog/2014/08/what-is-the-installation-cost-for-solar-panels](https://www.greenmatch.co.uk/blog/2014/08/what-is-the-installation-cost-for-solar-panels)
 
 Typical retail costs for the Solar PV panels themselves in the UK late 2016 is around £600/kW which is around 30% of the total installation cost estimates above:
 
